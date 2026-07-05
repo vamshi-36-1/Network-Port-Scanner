@@ -48,6 +48,4 @@ Port    80/tcp  OPEN   (HTTP)
 Found 2 open port(s): [22, 80]
 Scan completed in 1.34 seconds
 
-## License
-
-MIT (or choose whatever license you prefer)
+ 
